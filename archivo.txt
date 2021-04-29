@@ -1,4 +1,5 @@
-Estupendo dia para estudiar python 
- el sabado
+Comienzo del texto estudiar python 
+ Esta linea ha sido incluida desde el exterior 
  Siempre es una buena ocasión para estudiar python
- Siempre es una buena ocasión para estudiar python
+
+Comienzo del textoComienzo del texto

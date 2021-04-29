@@ -9,6 +9,6 @@ setup(
     author_email="lin.arturox@gmail.com",
     url="N/A",
     packages=["Calculos", "Calculos.redondeo_potencia"]
- 
+  
 
 )
